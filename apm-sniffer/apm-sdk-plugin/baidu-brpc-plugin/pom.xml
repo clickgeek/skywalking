@@ -30,7 +30,7 @@
     <name>baidu-brpc-plugin</name>
 
     <properties>
-        <brpc-java.version>2.5.3</brpc-java.version>
+        <brpc-java.version>2.5.8</brpc-java.version>
     </properties>
 
     <dependencies>
