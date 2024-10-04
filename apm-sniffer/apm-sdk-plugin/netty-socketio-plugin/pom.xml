@@ -30,7 +30,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <netty-socketio.version>1.7.12</netty-socketio.version>
+        <netty-socketio.version>1.7.13</netty-socketio.version>
     </properties>
 
     <dependencies>
