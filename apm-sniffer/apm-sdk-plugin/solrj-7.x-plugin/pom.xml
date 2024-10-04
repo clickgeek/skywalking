@@ -32,7 +32,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <solr-solrj.version>7.7.1</solr-solrj.version>
+        <solr-solrj.version>9.0.0</solr-solrj.version>
     </properties>
 
     <dependencies>
