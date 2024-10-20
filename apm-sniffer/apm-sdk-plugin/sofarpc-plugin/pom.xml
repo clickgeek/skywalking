@@ -32,7 +32,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <sofa-rpc-all.version>5.4.0</sofa-rpc-all.version>
+        <sofa-rpc-all.version>5.13.2</sofa-rpc-all.version>
     </properties>
 
     <dependencies>
