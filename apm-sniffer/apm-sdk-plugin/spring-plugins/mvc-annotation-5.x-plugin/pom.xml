@@ -30,10 +30,10 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <spring-core.version>5.0.0.RELEASE</spring-core.version>
-        <spring-webmvc.version>5.0.0.RELEASE</spring-webmvc.version>
+        <spring-core.version>6.1.14</spring-core.version>
+        <spring-webmvc.version>6.1.14</spring-webmvc.version>
         <javax-servlet-api.version>3.0.1</javax-servlet-api.version>
-        <spring-webflux.version>5.0.0.RELEASE</spring-webflux.version>
+        <spring-webflux.version>6.1.14</spring-webflux.version>
     </properties>
 
     <dependencies>
