@@ -28,7 +28,7 @@
     <artifactId>apm-spring-kafka-2.x-plugin</artifactId>
 
     <properties>
-        <spring-kafka.version>2.2.9.RELEASE</spring-kafka.version>
+        <spring-kafka.version>3.1.10</spring-kafka.version>
     </properties>
 
     <dependencies>
