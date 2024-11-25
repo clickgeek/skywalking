@@ -31,7 +31,7 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <spring-aop.version>5.1.4.RELEASE</spring-aop.version>
+        <spring-aop.version>6.1.14</spring-aop.version>
     </properties>
 
     <dependencies>
