@@ -31,7 +31,7 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <motan.version>0.2.1</motan.version>
+        <motan.version>1.2.0</motan.version>
         <spring-context.version>4.2.4.RELEASE</spring-context.version>
     </properties>
 
