@@ -29,7 +29,7 @@
 
     <properties>
         <logback-classic.version>1.2.3</logback-classic.version>
-        <logstash.version>6.1</logstash.version>
+        <logstash.version>7.0</logstash.version>
     </properties>
 
     <dependencies>
