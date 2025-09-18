@@ -29,7 +29,7 @@
     <name>core-patch</name>
 
     <properties>
-        <spring-aop.version>3.2.9.RELEASE</spring-aop.version>
+        <spring-aop.version>6.2.11</spring-aop.version>
     </properties>
 
     <dependencies>
