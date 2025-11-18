@@ -34,7 +34,7 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <okhttp.version>3.7.0</okhttp.version>
+        <okhttp.version>4.9.2</okhttp.version>
     </properties>
 
     <dependencies>
