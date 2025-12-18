@@ -32,7 +32,7 @@
     <url>http://maven.apache.org</url>
 
     <properties>
-        <java-chassis-core.version>1.0.0-m1</java-chassis-core.version>
+        <java-chassis-core.version>2.1.0</java-chassis-core.version>
     </properties>
 
     <dependencies>
